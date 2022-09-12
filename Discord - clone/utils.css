@@ -1,0 +1,47 @@
+.container{
+    display:flex;
+    padding-top: 120px;
+    width: auto;
+}
+.container h2{
+    font-size: 48px;
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-style: bold;
+}
+.w-80{
+    width: 80%;
+    margin: 0px auto;
+}
+.bg{
+    background-color: #f6f6f6;
+}
+.cont-padding{
+    padding: 0px 5%;
+}
+.section{
+    padding: 120px 0px;
+    text-align: center;
+    padding-bottom: 80px;   
+}
+.section h2{
+    font-family: blippo, fantasy ;
+    font-size: 3.5rem;
+    letter-spacing: 5px;
+    word-spacing: 8px;
+    color: black;
+    margin-bottom: 0px;
+}
+.section p{
+    color: #23272a;
+    padding: 0px 20%;
+}
+footer{
+    background-color: #23272a;
+    color: white;
+}
+.fcontainer{
+    display: flex;
+    width: 80%;
+    margin: 0px auto;
+    padding: 60px 0px;
+}
